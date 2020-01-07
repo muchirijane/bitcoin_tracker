@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+The App Functionality
+
+![bitcoin](https://user-images.githubusercontent.com/54930887/71922044-352c2980-319b-11ea-9341-62b2a5782356.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
